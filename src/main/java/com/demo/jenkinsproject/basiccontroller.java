@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class basiccontroller {
 	@GetMapping("/get")
 	public String getData() {
-		return "welcome to amdocs";
+		return "welcome to jenkinsproject";
 	}
 
 
